@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sahil Kumar</h1>
 <h3 align="center">A passionate Data-Scientist from Pakistan</h3>
 
-<img align="right" alt="coding" width="400" src="<img align="right" alt="coding" width="400" src="https://media.istockphoto.com/id/1364317541/photo/data-scientists-hand-of-programmer-touching-and-analyzing-development-at-various-information.jpg?s=612x612&w=0&k=20&c=mTnPYtYYxbyOdyeBQcu8LIWwD-31SIIfXSd0IEhhpYg=">
+<img align="right" alt="coding" width="400" src="https://media.istockphoto.com/id/1364317541/photo/data-scientists-hand-of-programmer-touching-and-analyzing-development-at-various-information.jpg?s=612x612&w=0&k=20&c=mTnPYtYYxbyOdyeBQcu8LIWwD-31SIIfXSd0IEhhpYg=">
 
 - ⚡ Fun fact **I am funny😅**
 
